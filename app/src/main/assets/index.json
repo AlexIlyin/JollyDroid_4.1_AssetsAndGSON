@@ -1,0 +1,82 @@
+[
+  {
+    "_id": 0,
+    "filename": "chip.gif",
+    "title": "Dale"
+  },
+  {
+    "_id": 1,
+    "filename": "chip2.gif",
+    "title": "Chip"
+  },
+  {
+    "_id": 2,
+    "filename": "donald.gif",
+    "title": "Donald Duck"
+  },
+  {
+    "_id": 3,
+    "filename": "donald2.gif",
+    "title": "Donald"
+  },
+  {
+    "_id": 4,
+    "filename": "goofy.gif",
+    "title": "Goofy"
+  },
+  {
+    "_id": 5,
+    "filename": "karlson.gif",
+    "title": "Карлсон"
+  },
+  {
+    "_id": 6,
+    "filename": "kesha.gif",
+    "title": "Попугай Кеша"
+  },
+  {
+    "_id": 7,
+    "filename": "leopold.gif",
+    "title": "Кот Леопольд"
+  },
+  {
+    "_id": 8,
+    "filename": "mickey_mouse.gif",
+    "title": "Mickey Mouse"
+  },
+  {
+    "_id": 9,
+    "filename": "pumba.gif",
+    "title": "Pumba"
+  },
+  {
+    "_id": 10,
+    "filename": "vinny.gif",
+    "title": "Винни Пух"
+  },
+  {
+    "_id": 11,
+    "filename": "vinny2.gif",
+    "title": "Пух"
+  },
+  {
+    "_id": 12,
+    "filename": "volk.gif",
+    "title": "Волк"
+  },
+  {
+    "_id": 13,
+    "filename": "vovka.gif",
+    "title": "Вовка"
+  },
+  {
+    "_id": 14,
+    "filename": "vovka2.gif",
+    "title": "Вовка"
+  },
+  {
+    "_id": 15,
+    "filename": "vzhik.gif",
+    "title": "Вжик"
+  }
+]
